@@ -30,7 +30,7 @@
   "readmeFile": "README.md",
   "dependencies": {
     "commander": "~2.1.0",
-    "colors": "~0.6.2",
+    "colors": "~1.4.0",
     "async": "~0.2.9",
     "wrench": "~1.5.4",
     "win-spawn": "~2.0.0",
