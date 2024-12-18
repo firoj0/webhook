@@ -25,7 +25,7 @@ The Webhook command line tools are sometimes simple aliases to specific Grunt co
 Requires the installation of [Node JS](http://www.nodejs.org). Once installed open your
 terminal and run:
 
-```
+```npm install -g grunt wh
 npm install -g grunt wh
 ```
 
